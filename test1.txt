@@ -1,3 +1,2 @@
 adding a new line
-this is color red
 this is new color red
