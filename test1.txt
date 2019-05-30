@@ -1,2 +1,6 @@
 adding a new line
+<<<<<<< HEAD
 this is new color red
+=======
+adding new blue
+>>>>>>> new-blue
